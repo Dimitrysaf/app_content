@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-12-09",
+  "titles": [
+    {
+      "id": "title-fundamental-rights",
+      "number": 1,
+      "name": "Fundamental Rights",
+      "path": "title-01-fundamental-rights",
+      "sections": [
+        {
+          "id": "section-general-provisions",
+          "number": 1,
+          "name": "General Provisions",
+          "path": "title-01-fundamental-rights/section-01-general-provisions",
+          "articles": [
+            {
+              "id": "right-to-life",
+              "number": "1",
+              "file": "01-right-to-life.md",
+              "title": "Right to Life"
+            },
+            {
+              "id": "freedom-of-speech",
+              "number": "2",
+              "file": "02-freedom-of-speech.md",
+              "title": "Freedom of Speech"
+            }
+          ]
+        },
+        {
+          "id": "section-civil-liberties",
+          "number": 2,
+          "name": "Civil Liberties",
+          "path": "title-01-fundamental-rights/section-02-civil-liberties",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
