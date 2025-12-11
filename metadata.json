@@ -1,1 +1,46 @@
-
+{
+    "version": "1.0.0",
+    "title": "Σύνταγμα της Ελλάδας",
+    "lastUpdated": "2025-12-11",
+    "structure": [
+        {
+            "type": "title",
+            "number": 1,
+            "name": "Βασικές Διατάξεις",
+            "children": [
+                {
+                    "type": "section",
+                    "number": 1,
+                    "name": "Μορφή του Πολιτεύματος",
+                    "children": [
+                        {
+                            "type": "article",
+                            "number": 1,
+                            "name": "Λαϊκή Κυριαρχία",
+                            "file": "sovereignty.md"
+                        },
+                        {
+                            "type": "article",
+                            "number": 2,
+                            "name": "Θρησκεία",
+                            "file": "religion.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "title",
+            "number": 2,
+            "name": "Ατομικά και Κοινωνικά Δικαιώματα",
+            "children": [
+                {
+                    "type": "article",
+                    "number": 3,
+                    "name": "Ελευθερία του Λόγου",
+                    "file": "freedom-speech.md"
+                }
+            ]
+        }
+    ]
+}
