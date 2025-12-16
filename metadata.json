@@ -37,6 +37,13 @@
                     "number": 3,
                     "name": "Ελευθερία του Λόγου",
                     "file": "freedom-speech.md"
+                },
+                "children": [
+                {
+                    "type": "article",
+                    "number": 4,
+                    "name": "Ελευθερία του Λόγου",
+                    "file": "freedom-speech.md"
                 }
             ]
         }
